@@ -1,0 +1,27 @@
+{
+  "name": "webpack-learnings",
+  "version": "1.0.0",
+  "description": "webpack@1.12.1",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manit815/webpack-learnings.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Manit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manit815/webpack-learnings/issues"
+  },
+  "homepage": "https://github.com/manit815/webpack-learnings#readme"
+}
